@@ -1,0 +1,13 @@
+{
+  "input": "data\\raw\\datos.csv",
+  "filters": {
+    "start": null,
+    "end": null,
+    "country": "ES"
+  },
+  "kpis": {
+    "num_orders": 11,
+    "total_revenue": 2519.0,
+    "avg_order_value": 229.0
+  }
+}
